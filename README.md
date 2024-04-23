@@ -1,7 +1,7 @@
 ### Hi there 👋
-* I am Abdulsalam Abdikarim, a full-stack web developer from Nairobi Kenya.
-* I build full-stack web applications using React-JS and Flask.
-* I am learning Typescript at the moment while still expanding my React and flask expertise.
+* 👓 I am Abdulsalam Abdikarim, a full-stack web developer from Nairobi Kenya.
+* 📐 I build full-stack web applications using React-JS and Flask.
+* 📚 I am learning Typescript at the moment while still expanding my React and flask expertise.
 * I am currently working on a Salary calculator app that calculates deductions and Net salary values.
 * My favorite thing about coding and software engineering in general is its continuous learning process along with the satisafction gained from learning new things. 😌 ✨
 * I value constructive feedback and I am ever eager to learn and to explore. 💡
