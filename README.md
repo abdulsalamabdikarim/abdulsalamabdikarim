@@ -3,7 +3,7 @@
 * 📐 I build full-stack web applications using React-JS and Flask.
 * 📚 I am learning Typescript at the moment while still expanding my React and flask expertise.
 * I am currently working on a Salary calculator app that calculates deductions and Net salary values.
-* My favorite thing about coding and software engineering in general is its continuous learning process along with the satisafction gained from learning new things. 😌 ✨
+* My favorite thing about coding and software engineering in general is the continuous learning process we go through as Software Developers along with the satisafction we gain from constantly learning new things. 😌 ✨
 * I value constructive feedback and I am ever eager to learn and to explore. 💡
 * You can reach me via:
    * email: achalam00@gmail.com
