@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 👓 I am Abdulsalam Abdikarim,a web developer from Nairobi Kenya.
+* 👓 I am Abdulsalam Abdikarim, a web developer from Nairobi Kenya.
 * 📐 I build full-stack web applications using React-JS and Flask.
 * 📚 I am learning Typescript at the moment while still expanding my React and flask expertise.
 * I am currently working on a Salary calculator app that calculates deductions and Net salary values.
