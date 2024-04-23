@@ -2,6 +2,7 @@
 * I am Abdulsalam Abdikarim, a full-stack web developer from Nairobi Kenya.
 * I build full-stack web applications using React-JS and Flask.
 * I am learning Typescript at the moment while still expanding my React and flask expertise.
+* My favorite thing about coding and software engineering in general is the continuous learning process and the satisafction I gain from learning something new. 😌 ✨
 <!--
 **abdulsalamabdikarim/abdulsalamabdikarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
