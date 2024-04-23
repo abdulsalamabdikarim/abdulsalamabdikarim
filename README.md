@@ -3,6 +3,7 @@
 * I build full-stack web applications using React-JS and Flask.
 * I am learning Typescript at the moment while still expanding my React and flask expertise.
 * My favorite thing about coding and software engineering in general is the continuous learning process and the satisafction I gain from learning something new. 😌 ✨
+* I value constructive feedback and I am ever eager to learn and to explore. 💡
 <!--
 **abdulsalamabdikarim/abdulsalamabdikarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
